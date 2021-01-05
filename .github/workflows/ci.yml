@@ -6,7 +6,7 @@ on:
 
 jobs:
   main:
-    runs-on: windows-latest
+    runs-on: linux-latest
     steps:
       -
         name: Set up QEMU
